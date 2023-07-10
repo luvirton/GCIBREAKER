@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GCIBREAKER", "GCIBREAKER.csproj", "{100B70FF-3B37-40DC-AA0B-454A9C80C48D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{100B70FF-3B37-40DC-AA0B-454A9C80C48D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{100B70FF-3B37-40DC-AA0B-454A9C80C48D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{100B70FF-3B37-40DC-AA0B-454A9C80C48D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{100B70FF-3B37-40DC-AA0B-454A9C80C48D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FC93D9E-E3B2-4E36-8CF2-E6B58271DFD8}
+	EndGlobalSection
+EndGlobal
